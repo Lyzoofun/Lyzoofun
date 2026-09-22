@@ -19,6 +19,8 @@
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #333; padding: 20px;">
       <pre style="background-color: transparent; border: none; color: #fff; font-family: monospace;">
+♦ 𝕹𝖆𝖒𝖊   ➔ Muhammad Wildan Fauzan
+♦ 𝕬𝖌𝖊    ➔ 19
 ♦ 𝕮𝖑𝖆𝖘𝖘   ➔ Backend / Full-Stack Apprentice
 ♦ 𝕺𝖗𝖎𝖌𝖎𝖓  ➔ Indonesia
 ♦ 𝕾𝖐𝖎𝖑𝖑𝖘  ➔ RLS, API Architecture, CI/CD
