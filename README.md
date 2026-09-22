@@ -39,7 +39,7 @@
 </table>
 
 <div align="center">
-  <div style="height: 2px; width: 100%; background: linear-gradient(90deg, transparent, #b19cd9, #ffffff, #b19cd9, transparent); animation: glow 2s infinite;"></div>
+  <img src="URL_GIF_GARIS_UNGU_KAMU" width="100%" alt="Animated Divider">
 </div>
 
 <div align="center">
