@@ -21,9 +21,7 @@
       <pre style="background-color: transparent; border: none; color: #fff; font-family: monospace;">
 ♦ 𝕮𝖑𝖆𝖘𝖘   ➔ Backend / Full-Stack Apprentice
 ♦ 𝕺𝖗𝖎𝖌𝖎𝖓  ➔ Indonesia
-♦ 𝕼𝖚𝖊𝖘𝖙𝖘  ➔ Smart Library, lyzoofun, osis-voting
 ♦ 𝕾𝖐𝖎𝖑𝖑𝖘  ➔ RLS, API Architecture, CI/CD
-♦ 𝕮𝖔𝖒𝖒𝖘   ➔ Discord (_777777.777777_)
       </pre>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #333; padding: 20px;">
