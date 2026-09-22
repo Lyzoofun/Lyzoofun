@@ -107,7 +107,7 @@
 ### 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖎𝖔𝖓𝖘
 
 <a href="https://discord.com/users/1510518833042165795"><img src="https://img.shields.io/badge/Discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://youtube.com/@@Lyzoo666"><img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://youtube.com/@Lyzoo666"><img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 <a href="https://tiktok.com/@thisfauu_"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
 <a href="https://instagram.com/404.fzann"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://x.com/stranger777__"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
