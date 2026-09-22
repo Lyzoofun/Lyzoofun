@@ -1,7 +1,6 @@
 <div align="center">
 
 # 𝕭𝖆𝖈𝖐𝖊𝖓𝖉 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗
-<img src="https://komarev.com/ghpvc/?username=Lyzoofun&color=black&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br><br>
 
