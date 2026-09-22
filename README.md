@@ -93,7 +93,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,lua,php,python,ts,nodejs,postgres,mysql,sqlite,supabase,nextjs,vercel,docker,git,github,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,lua,php,python,ts,nodejs,postgres,mysql,sqlite,supabase,nextjs,git,github" />
 </a>
 
 </div>
