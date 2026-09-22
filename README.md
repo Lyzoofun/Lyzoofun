@@ -1,3 +1,18 @@
+<h1 align="center">Hi there, I'm Lijooo 👋</h1>
+<h3 align="center">Backend Developer | Database Enthusiast</h3>
+
+<br>
+
+## 👨‍💻 Tentang Saya
+
+Saya adalah seorang pengembang perangkat lunak dari Indonesia yang memiliki ketertarikan mendalam pada **Backend Engineering**, arsitektur sistem, dan manajemen basis data. Saya sangat menikmati proses merancang logika di balik layar yang membuat sebuah aplikasi dapat berjalan dengan cepat, aman, dan efisien. 
+
+- 🔭 **Saat ini sedang mengerjakan:** Proyek arsitektur backend untuk "Smart Library", *lyzoofun*, dan *osis-voting*, dengan fokus pada implementasi *Row Level Security* (RLS) dan manajemen API terpusat.
+- 🌱 **Sedang mempelajari:** Eksplorasi pengembangan web modern menggunakan **Next.js**, penguatan logika pemrograman dengan **C++**, serta dasar-dasar **Machine Learning**.
+- ⚙️ **Keahlian utama:** Merancang skema database (PostgreSQL/MySQL), integrasi *Backend-as-a-Service* (seperti Supabase), dan proses *deployment* otomatis (CI/CD) menggunakan Vercel.
+- 💬 **Tanya saya tentang:** Supabase, Database Relasional, RLS, atau konfigurasi backend.
+- 🎮 **Hobi:** Bermain game, mengelola komunitas Discord, dan bereksperimen dengan teknologi baru.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me/1510518833042165795) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Wildan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/404.fzann) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/777fzan777) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thisfauu_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stranger777__) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Lyzoo666) 
