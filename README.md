@@ -58,6 +58,8 @@
 <br>
 
 <!-- KOTAK BAWAH: System Info & Commits -->
+### 𝕾𝖙𝖆𝖙𝖎𝖘𝖙𝖎𝖈𝖘 & 𝕽𝖊𝖈𝖔𝖗𝖉𝖘
+
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #444; padding: 20px; background-color: #0d1117;">
