@@ -89,6 +89,9 @@
 ### 𝕿𝖊𝖈𝖍 𝕬𝖗𝖘𝖊𝖓𝖆𝖑
 
 <!-- Ikon Persegi Empat Ala Aplikasi (Square Icons) -->
+
+<div align="center">
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cpp,java,js,lua,php,python,ts,nodejs,postgres,mysql,sqlite,supabase,nextjs,vercel,docker,git,github,figma,canva" />
 </a>
