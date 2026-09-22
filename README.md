@@ -2,8 +2,6 @@
 
 # 𝕭𝖆𝖈𝖐𝖊𝖓𝕯 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗
 
-<br><br>
-
 ### 𝕴 𝖆𝖒 𝕷𝖎𝖏𝖔𝖔𝖔. 𝕯𝖆𝖙𝖆𝖇𝖆𝖘𝖊 𝕰𝖓𝖙𝖍𝖚𝖘𝖎𝖆𝖘𝖙.
 
  *"Membangun fondasi logika dan struktur di balik layar yang gelap."*
