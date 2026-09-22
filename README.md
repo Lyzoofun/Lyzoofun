@@ -9,7 +9,7 @@
 
 ### 𝕴 𝖆𝖒 𝕷𝖎𝖏𝖔𝖔𝖔. 𝕯𝖆𝖙𝖆𝖇𝖆𝖘𝖊 𝕰𝖓𝖙𝖍𝖚𝖘𝖎𝖆𝖘𝖙.
 
-> *"Membangun fondasi logika dan struktur di balik layar yang gelap."*
+ *"Membangun fondasi logika dan struktur di balik layar yang gelap."*
 
 </div>
 
