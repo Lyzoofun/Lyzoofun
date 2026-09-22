@@ -5,8 +5,6 @@
 
 <br><br>
 
-<img src="https://i.pinimg.com/originals/91/92/b8/9192b8d002f2355523a5477d9c6e3b5e.gif" width="100" />
-
 ### 𝕴 𝖆𝖒 𝕷𝖎𝖏𝖔𝖔𝖔. 𝕯𝖆𝖙𝖆𝖇𝖆𝖘𝖊 𝕰𝖓𝖙𝖍𝖚𝖘𝖎𝖆𝖘𝖙.
 
  *"Membangun fondasi logika dan struktur di balik layar yang gelap."*
