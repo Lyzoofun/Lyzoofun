@@ -40,6 +40,12 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+<div align="center">
+  
+### 𝕾𝖙𝖆𝖙𝖎𝖘𝖙𝖎𝖈𝖘 & 𝕽𝖊𝖈𝖔𝖗𝖉𝖘
+
+</div>
+
 <!-- KOTAK STATS & REPO (Dengan Border) -->
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
@@ -58,7 +64,6 @@
 <br>
 
 <!-- KOTAK BAWAH: System Info & Commits -->
-### 𝕾𝖙𝖆𝖙𝖎𝖘𝖙𝖎𝖈𝖘 & 𝕽𝖊𝖈𝖔𝖗𝖉𝖘
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
