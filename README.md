@@ -101,6 +101,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+<div align="center">
+
 ### 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖎𝖔𝖓𝖘
 
 <a href="https://discord.com/users/1510518833042165795"><img src="https://img.shields.io/badge/Discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
