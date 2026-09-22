@@ -1,5 +1,12 @@
 <div align="center">
 
+# 𝕭𝖆𝖈𝖐𝖊𝖓𝖉 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗
+<img src="https://komarev.com/ghpvc/?username=Lyzoofun&color=black&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br><br>
+
+<img src="https://i.pinimg.com/originals/91/92/b8/9192b8d002f2355523a5477d9c6e3b5e.gif" width="100" />
+
 ### 𝕴 𝖆𝖒 𝕷𝖎𝖏𝖔𝖔𝖔. 𝕯𝖆𝖙𝖆𝖇𝖆𝖘𝖊 𝕰𝖓𝖙𝖍𝖚𝖘𝖎𝖆𝖘𝖙.
 
 > *"Membangun fondasi logika dan struktur di balik layar yang gelap."*
@@ -10,27 +17,22 @@
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="35%" valign="top" style="border: 1px solid #333; padding: 20px;">
-      <pre style="background-color: transparent; border: none; color: #fff; font-family: monospace; font-size: 13px;">
-♦ 𝕮𝖑𝖆𝖘𝖘   ➔ Backend Apprentice
+    <td width="50%" valign="top" style="border: 1px solid #333; padding: 20px;">
+      <pre style="background-color: transparent; border: none; color: #fff; font-family: monospace;">
+♦ 𝕮𝖑𝖆𝖘𝖘   ➔ Backend / Full-Stack Apprentice
 ♦ 𝕺𝖗𝖎𝖌𝖎𝖓  ➔ Indonesia
-♦ 𝕼𝖚𝖊𝖘𝖙𝖘  ➔ Smart Library
-♦ 𝕾𝖐𝖎𝖑𝖑𝖘  ➔ RLS, API Arch
-♦ 𝕮𝖔𝖒𝖒𝖘   ➔ _777777.777777_
+♦ 𝕼𝖚𝖊𝖘𝖙𝖘  ➔ Smart Library, lyzoofun, osis-voting
+♦ 𝕾𝖐𝖎𝖑𝖑𝖘  ➔ RLS, API Architecture, CI/CD
+♦ 𝕮𝖔𝖒𝖒𝖘   ➔ Discord (_777777.777777_)
       </pre>
     </td>
-    
-    <td width="30%" align="center" valign="middle" style="border: 1px solid #333; padding: 10px;">
-      <img src="https://i.pinimg.com/originals/c7/2b/bb/c72bbb8d3f6631b1c3143c7b2cc8e411.gif" width="120" alt="Goth GIF" />
-    </td>
-
-    <td width="35%" valign="top" style="border: 1px solid #333; padding: 20px;">
-      <pre style="background-color: transparent; border: none; color: #fff; font-family: monospace; font-size: 13px;">
+    <td width="50%" valign="top" style="border: 1px solid #333; padding: 20px;">
+      <pre style="background-color: transparent; border: none; color: #fff; font-family: monospace;">
 [ 𝕮𝖚𝖗𝖗𝖊𝖓𝖙𝖑𝖞 𝕰𝖝𝖕𝖑𝖔𝖗𝖎𝖓𝖌 ]
-- Next.js Web Dev
+- Next.js Web Development
 - C++ Core Logic
-- Machine Learning
-- Supabase
+- Machine Learning Basics
+- Supabase Integrations
       </pre>
     </td>
   </tr>
