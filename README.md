@@ -39,7 +39,7 @@
 </table>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <div style="height: 2px; width: 100%; background: linear-gradient(90deg, transparent, #b19cd9, #ffffff, #b19cd9, transparent); animation: glow 2s infinite;"></div>
 </div>
 
 <div align="center">
