@@ -1,8 +1,8 @@
 <div align="center">
 
-# 𝕭𝖆𝖈𝖐𝖊𝖓𝕯 𝕯𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖗
+# Backend Developer
 
-### 𝕴 𝖆𝖒 𝕷𝖎𝖏𝖔𝖔𝖔. 𝕯𝖆𝖙𝖆𝖇𝖆𝖘𝖊 𝕰𝖓𝖙𝖍𝖚𝖘𝖎𝖆𝖘𝖙.
+### I am Lijooo. Database Enthusiast.
 
  *"Membangun fondasi logika dan struktur di balik layar yang gelap."*
 
@@ -10,21 +10,20 @@
 
 <br>
 
-<!-- KOTAK ATAS: Biodata & Currently Exploring -->
 <table align="center" width="100%" style="border-collapse: collapse; border: 1px solid #333;">
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #333; padding: 20px;">
       <pre style="background-color: transparent; border: none; color: #fff; font-family: monospace;">
-♦ 𝕹𝖆𝖒𝖊   ➔ Muhammad Wildan Fauzan
-♦ 𝕬𝖌𝖊    ➔ 19
-♦ 𝕮𝖑𝖆𝖘𝖘   ➔ Backend / Full-Stack Apprentice
-♦ 𝕺𝖗𝖎𝖌𝖎𝖓  ➔ Indonesia
-♦ 𝕾𝖐𝖎𝖑𝖑𝖘  ➔ RLS, API Architecture, CI/CD
+♦ Name    ➔ Muhammad Wildan Fauzan
+♦ Age     ➔ 19
+♦ Class   ➔ Backend / Full-Stack Apprentice
+♦ Origin  ➔ Indonesia
+♦ Skills  ➔ RLS, API Architecture, CI/CD
       </pre>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #333; padding: 20px;">
       <pre style="background-color: transparent; border: none; color: #fff; font-family: monospace;">
-[ 𝕮𝖚𝖗𝖗𝖊𝖓𝖙𝖑𝖞 𝕰𝕩𝖕𝖑𝖔𝖗𝖎𝖓𝖌 ]
+[ Currently Exploring ]
 - Next.js Web Development
 - C++ Core Logic
 - Machine Learning Basics
@@ -40,11 +39,10 @@
 
 <div align="center">
   
-### 𝕾𝖙𝖆𝖙𝖎𝖘𝖙𝖎𝖈𝖘 & 𝕽𝖊𝖈𝖔𝖗𝖉𝖘
+### Statistics & Records
 
 </div>
 
-<!-- KOTAK STATS & REPO (Dengan Border) -->
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="33%" align="center" style="border: 1px solid #444; padding: 10px; background-color: #0d1117;">
@@ -61,13 +59,11 @@
 
 <br>
 
-<!-- KOTAK BAWAH: System Info & Commits -->
-
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #444; padding: 20px; background-color: #0d1117;">
       <pre style="background-color: transparent; border: none; color: #fff; font-family: monospace; font-size: 13px;">
-[ 𝕾𝖞𝖘𝖙𝖊𝖒 𝕴𝖓𝖋𝖔 ]
+[ System Info ]
 ▸ Status      ➔ Online & Coding
 ▸ Frameworks  ➔ Next.js, Node.js
 ▸ Database    ➔ Supabase / PostgreSQL
@@ -86,9 +82,7 @@
 
 <div align="center">
 
-### 𝕿𝖊𝖈𝖍 𝕬𝖗𝖘𝖊𝖓𝖆𝖑
-
-<!-- Ikon Persegi Empat Ala Aplikasi (Square Icons) -->
+### Tech Arsenal
 
 <div align="center">
 
@@ -104,7 +98,7 @@
 
 <div align="center">
 
-### 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖎𝖔𝖓𝖘
+### Connections
 
 <a href="https://discord.com/users/1510518833042165795"><img src="https://img.shields.io/badge/Discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://youtube.com/@Lyzoo666"><img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
